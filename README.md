@@ -2,3 +2,4 @@ this is a fork of https://github.com/Bizarrus/Assemport , however with increased
 
 ![Screenshot](Screenshots/image.png)
 
+Escaped test string (non-executable): &lt;img src=x onerror=alert('XSS')&gt;
